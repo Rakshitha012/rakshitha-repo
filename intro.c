@@ -3,6 +3,6 @@
 
 void main()
 {
-  printf("this is my first rakshitha repo...");
+  printf("this is my first roshini repo...");
   getch();
 }
